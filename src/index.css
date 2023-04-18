@@ -41,6 +41,14 @@ a:hover{
   padding: 1%;
   border-radius: 20px;
 }
+.elements-text-container2{
+  border: 1px solid black;
+  margin: 20px;
+  padding: 1%;
+  background-color: aqua;
+  color: white;
+  border-radius: 20px;
+}
 
 
 
